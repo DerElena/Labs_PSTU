@@ -1,0 +1,10 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (bookCRUD.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Book.cpp
+  Vector.cpp
+D:\Elena\Проекты 2 сем\14_16 teoriya algoritmov\15. Bazy dannyh\Vector.cpp(36,20): warning C4018: >: несоответствие типов со знаком и без знака
+D:\Elena\Проекты 2 сем\14_16 teoriya algoritmov\15. Bazy dannyh\Vector.cpp(63,21): warning C4018: >: несоответствие типов со знаком и без знака
+D:\Elena\Проекты 2 сем\14_16 teoriya algoritmov\15. Bazy dannyh\Vector.cpp(73,21): warning C4018: >: несоответствие типов со знаком и без знака
+D:\Elena\Проекты 2 сем\14_16 teoriya algoritmov\15. Bazy dannyh\Vector.cpp(95,15): warning C4018: >: несоответствие типов со знаком и без знака
+  main.cpp
+  Создание кода...
+  15. Bazy dannyh.vcxproj -> D:\Elena\Проекты 2 сем\14_16 teoriya algoritmov\15. Bazy dannyh\Debug\15. Bazy dannyh.exe
