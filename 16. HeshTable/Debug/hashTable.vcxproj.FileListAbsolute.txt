@@ -1,0 +1,2 @@
+D:\Elena\Проекты 2 сем\14_16 teoriya algoritmov\16. HeshTable\Debug\hashTable.exe
+D:\Elena\Проекты 2 сем\14_16 teoriya algoritmov\16. HeshTable\Debug\hashTable.pdb
