@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Елена\source\repos\лабораторная 1 часть 1\main.cpp(10,28): warning C4305: инициализация: усечение из "double" в "float"
+  лабораторная 1 часть 1.vcxproj -> C:\Users\Елена\source\repos\лабораторная 1 часть 1\Debug\лабораторная 1 часть 1.exe
