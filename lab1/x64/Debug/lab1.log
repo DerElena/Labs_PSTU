@@ -1,0 +1,6 @@
+﻿  main.cpp
+  pair.cpp
+  Создание кода...
+D:\Elena\Проекты 2 сем\1_6 informatika\lab1\main.cpp(10): warning C4172: возвращение адреса локальной или временной переменной : temp
+D:\Elena\Проекты 2 сем\1_6 informatika\lab1\main.cpp(13): warning C4172: возвращение адреса локальной или временной переменной : temp
+  lab1.vcxproj -> D:\Elena\Проекты 2 сем\1_6 informatika\x64\Debug\lab1.exe

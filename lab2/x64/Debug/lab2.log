@@ -1,0 +1,15 @@
+﻿  Number.cpp
+D:\Elena\Проекты 2 сем\1_6 informatika\lab2\Number.cpp(48,32): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Elena\Проекты 2 сем\1_6 informatika\lab2\Number.cpp(51,21): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Elena\Проекты 2 сем\1_6 informatika\lab2\Number.cpp(53,40): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Elena\Проекты 2 сем\1_6 informatika\lab2\Number.cpp(62,32): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Elena\Проекты 2 сем\1_6 informatika\lab2\Number.cpp(65,21): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Elena\Проекты 2 сем\1_6 informatika\lab2\Number.cpp(67,40): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Elena\Проекты 2 сем\1_6 informatika\lab2\Number.cpp(76,10): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  main.cpp
+D:\Elena\Проекты 2 сем\1_6 informatika\lab2\main.cpp(13,36): warning C4305: аргумент: усечение из "double" в "float"
+D:\Elena\Проекты 2 сем\1_6 informatika\lab2\main.cpp(23,28): warning C4305: аргумент: усечение из "double" в "float"
+D:\Elena\Проекты 2 сем\1_6 informatika\lab2\main.cpp(29,10): warning C4129: m: неизвестная escape-последовательность
+D:\Elena\Проекты 2 сем\1_6 informatika\lab2\main.cpp(32,23): warning C4305: аргумент: усечение из "double" в "float"
+  Создание кода...
+  lab2.vcxproj -> D:\Elena\Проекты 2 сем\1_6 informatika\x64\Debug\lab2.exe
