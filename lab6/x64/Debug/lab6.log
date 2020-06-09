@@ -1,0 +1,5 @@
+﻿  Vector.cpp
+  main.cpp
+  Создание кода...
+D:\Elena\Проекты 2 сем\1_6 informatika\lab6\Vector.cpp(69): warning C4715: Vector::operator[]: значение возвращается не при всех путях выполнения
+  lab6.vcxproj -> D:\Elena\Проекты 2 сем\1_6 informatika\x64\Debug\lab6.exe
