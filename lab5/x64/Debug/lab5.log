@@ -1,0 +1,8 @@
+﻿  Complex.cpp
+D:\Elena\Проекты 2 сем\1_6 informatika\lab5\Complex.cpp(23,9): warning C4129: (: неизвестная escape-последовательность
+D:\Elena\Проекты 2 сем\1_6 informatika\lab5\Complex.cpp(25,9): warning C4129: ): неизвестная escape-последовательность
+  main.cpp
+  Pair.cpp
+  Vector.cpp
+  Создание кода...
+  lab5.vcxproj -> D:\Elena\Проекты 2 сем\1_6 informatika\x64\Debug\lab5.exe
