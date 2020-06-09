@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Елена\source\repos\лабораторная 10\main.cpp(50,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  лабораторная 10.vcxproj -> C:\Users\Елена\source\repos\лабораторная 10\Debug\лабораторная 10.exe
